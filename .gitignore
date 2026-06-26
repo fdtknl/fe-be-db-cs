@@ -1,0 +1,21 @@
+# .NET
+bin/
+obj/
+*.csproj.user
+*.suo
+.vs/
+.vscode/
+appsettings.*.json
+
+# Node/React
+node_modules/
+build/
+dist/
+.env.local
+.env.*.local
+
+# Docker
+.dockerignore
+
+# OS
+.DS_Store
